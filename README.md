@@ -1,5 +1,5 @@
 # MACHINE_LEARNING## Entregable
-El objetivo de este proyecto es desarrollar un modelo de machine learning, desde la obtención de datos hasta su despligue.
+El objetivo de este proyecto es desarrollar un modelo de machine learning, desde la obtención de datos hasta su despliegue.
 
 |-- nombre_proyecto_final_ML
     |-- data
@@ -44,3 +44,4 @@ El objetivo de este proyecto es desarrollar un modelo de machine learning, desde
 ```
 
 
+Este conjunto de datos proporciona un registro detallado de los Juegos Olímpicos desde 1896 hasta 2016. Incluye información sobre cada atleta participante, los eventos en los que compitieron y sus resultados, incluyendo datos sobre las medallas ganadas.
