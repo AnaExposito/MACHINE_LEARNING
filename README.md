@@ -58,3 +58,7 @@ Precicción:
 
 Predicción de la reacción(sentimiento) en función del tema.
 Predicción de la reacción (sentimiento), en función del texto en la descripción del post.
+
+Futuro:
+
+Patrones de fechas (dia, hora, semana) y estaciones.
