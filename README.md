@@ -1,4 +1,4 @@
-# MACHINE_LEARNING## Entregable
+# MACHINE_LEARNING##
 El objetivo de este proyecto es desarrollar un modelo de machine learning, desde la obtención de datos hasta su despliegue.
 
 
